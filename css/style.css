@@ -1,0 +1,52 @@
+
+
+
+.navbar{
+    background-color: #2E2E2E;
+    flex-direction: column-reverse;
+    animation-delay: 6s;
+}
+
+#texto1{
+    color: rgba(221, 221, 236, 0.742);
+    font-family: 'Bungee Spice', cursive;
+}
+
+.quem-somos{
+    background-color: #2E2E2E;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+#texto2{
+    color: rgba(221, 221, 236, 0.742);
+    text-align: center; 
+    padding-top: 10px;
+    font-family: 'Bungee Spice', cursive;
+}
+
+#universo{
+    font-family: 'Bungee Spice', cursive;
+    color: aliceblue;
+}
+
+#mudar{
+    font-family: 'Bungee Spice', cursive;
+    color: rgba(206, 172, 138, 0.902);
+}
+
+.margin{
+    padding-bottom: 05px;
+    color: rgba(221, 221, 236, 0.742);
+    background-color: #2E2E2E;
+    font-family: 'Bungee Spice', cursive;
+}
+
+.row{
+    flex-direction: column-reverse;
+    flex-wrap: wrap-reverse;
+    color: rgba(206, 172, 138, 0.902);
+    font-family: 'Bungee Spice', cursive;
+    flex-direction: row-reverse;
+}
